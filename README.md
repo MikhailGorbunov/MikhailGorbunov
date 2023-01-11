@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mikhail Gorbunov</h1>
 <h3 align="center">A passionate frontend/backend developer from Edinburgh, UK</h3>
 
-- 🌱 I’m currently learning **Software Development Course** @[code.clan](https://github.com/codeclan)
+- 🌱 I’m currently learning [**Professional Software Development Course**](https://codeclan.com/courses/professional-software-development/) @[code.clan](https://github.com/codeclan)
 
 - 👨‍💻 All of my projects are available at [mdfjg.com](mdfjg.com)
 
 - 💬 Ask me about **react, vite, angular**
 
-- 📫 How to reach me **mikle.gorbunov@gmail.com**
+- 📫 How to reach me [**mikle.gorbunov@gmail.com**](mikle.gorbunov@gmail.com)
 
 - 📄 Know about my experiences [resume.com](resume.com)
 
-- ⚡ Fun fact **I like (to complete)**
+- ⚡ Fun fact **I like making cocktails**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
