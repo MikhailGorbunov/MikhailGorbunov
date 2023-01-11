@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [mdfjg.com](mdfjg.com)
 
 - 💬 Ask me about **react, vite, angular**
-- 📫 How to reach me [**mikle.gorbunov@gmail.com**](mailto:mikle.gorbunov@gmail.com)
+- 📫 How to email me [**Mikhail Gorbunov**](mailto:mikle.gorbunov@gmail.com)
 
 - 📄 Know about my experiences [resume.com](resume.com)
 
