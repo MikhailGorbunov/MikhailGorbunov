@@ -18,7 +18,7 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 <p align="left">
 
-  <a href="[https://www.instagram.com/]" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg)" alt="instagram" width="40" height="40"/> </a>
+  <a href="[https://www.instagram.com/]" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="instagram" width="40" height="40"/> </a>
 
 </p>
 
