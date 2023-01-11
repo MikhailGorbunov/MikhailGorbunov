@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail Gorbunov</h1>
 <h3 align="center">A passionate frontend/backend developer from Edinburgh, UK</h3>
 
-- 🌱 I’m currently learning **Software Development Course**
+- 🌱 I’m currently learning **Software Development Course** @[code.clan](https://github.com/codeclan)
 
 - 👨‍💻 All of my projects are available at [mdfjg.com](mdfjg.com)
 
