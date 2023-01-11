@@ -17,7 +17,9 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mikhail-gorbunov-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikhail-gorbunov-/" height="30" width="40" /></a>
+
+  <a href="[https://www.instagram.com/]" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg)" alt="instagram" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
