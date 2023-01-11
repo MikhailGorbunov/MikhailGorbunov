@@ -13,8 +13,8 @@
 - ⚡ Fun fact **I like making cocktails**
 
 <h3 align="left">🌐 Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer](https://www.linkedin.com/in/mikhail-gorbunov-/))
-
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.linkedin.com/in/mikhail-gorbunov-/))
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mikhail-gorbunov-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikhail-gorbunov-/" height="30" width="40" /></a>
