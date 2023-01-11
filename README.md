@@ -16,8 +16,8 @@
 
 <p align="left">
 
-   <a href="mailto: mikle.gorbunov@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="30" height="30"/> </a>
-  <a href="https://www.linkedin.com/in/mikhail-gorbunov-/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/> </a>
+   <a href="mailto: mikle.gorbunov@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="35" height="35"/> </a>
+  <a href="https://www.linkedin.com/in/mikhail-gorbunov-/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="35" height="35"/> </a>
 
 </p>
 
