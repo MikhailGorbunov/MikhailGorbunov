@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning [**Professional Software Development Course**](https://codeclan.com/courses/professional-software-development/) @[code.clan](https://github.com/codeclan)
 
-- 👨‍💻 All of my projects can be accessed in attachments bellow 
+- 👨‍💻 All of my projects are pinned bellow 
 
 - 💬 Ask me about **react, vite, angular, **
 - 📫 How to email me [**Mikhail Gorbunov**](mailto:mikle.gorbunov@gmail.com)
